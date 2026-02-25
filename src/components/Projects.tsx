@@ -12,7 +12,7 @@ const projects = [
     name: "Dr32Teeth",
     description:
       "Real-world dental clinic management system with Next.js, Express.js, and PostgreSQL. Includes OTP-based auth, RBAC for doctors/staff/patients, and appointment dashboards. Containerized with Docker and CI/CD pipelines.",
-    github: "github.com/mengji-dhanush/Dr32Theeth",
+    github: "github.com/DyutiM25/DR32THEETH",
     deployment: null,
   },
 ];
